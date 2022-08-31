@@ -72,13 +72,13 @@ export const renderForm = () => {
     const btnSubmit = document.createElement("input");  
     btnSubmit.value = "Agregar Producto";
     btnSubmit.addEventListener("click", (e) => {
-      e.preventDefault();
-      const formData = new FormData(form);
-      const data = {};
-      formData.forEach((value, key) => {
-        data[key] = value;
-      })   
-      createProduct(data); 
+        e.preventDefault();
+        const formData = new FormData(form);
+        const data = {};
+        formData.forEach((value, key) => {
+            data[key] = value;
+        })   
+        createProduct(data); 
     });
     formButton.append(btnSubmit);
 
