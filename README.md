@@ -24,6 +24,6 @@
    npm node app.js
    ```
 
-La Aplicación estará desplegada en Heroku y puede ser accedida desde 
+La Aplicación estará desplegada en Heroku y puede ser accedida desde (aca estara disponible el link a la aplicacion en heroku)
 Es un e-commerce de varios tipos de productos (principalmente comidas), donde se puede iniciar sesion creando tu propio usuario
 Ademas el administrador puede crear, editar y eliminar productos, y los usuarios pueden agregarlos al carrito y realizar compras
