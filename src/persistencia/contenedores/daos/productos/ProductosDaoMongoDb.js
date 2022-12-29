@@ -7,4 +7,4 @@ class ProductosDaoMongoDb extends ContenedorMongoDb {
   }
 }
 
-export {ProductosDaoMongoDb}
+export { ProductosDaoMongoDb }

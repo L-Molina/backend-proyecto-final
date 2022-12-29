@@ -3,7 +3,7 @@ import * as fs from 'fs'
 //list
 const list = async (ruta) => {
   try {      
-    const data = fs.readFileSync(ruta, 'utf-8')
+    const data = await fs.readFileSync(ruta, 'utf-8')
     const dataObj = JSON.parse(data) 
     return (dataObj)
   } catch (err) {      

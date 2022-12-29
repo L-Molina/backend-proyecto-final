@@ -3,6 +3,7 @@ import session from 'express-session';
 import passport from 'passport';
 import cookieParser from 'cookie-parser';
 import dotenv from 'dotenv';
+import config from './config.js'
 dotenv.config();
 
 import path from 'path';
@@ -54,6 +55,7 @@ app.use(express.json());
 app.use(express.urlencoded({extended: true}));
 app.use('/', router)
 
+console.log(`NODE_ENV=${config.NODE_ENV}`);
 
 //conectado
 const port = process.env.PORT || 8080;
