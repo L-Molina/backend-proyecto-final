@@ -47,15 +47,22 @@ Ademas el administrador puede crear, editar y eliminar productos, y los usuarios
 
 ### Inicio de sesion
 
+Para iniciar sesion, ingrese un email y una contraseña válidos.
 
 ### Registro
 
+Para registrarse, ingrese un nombre, telefono, email, direccion, edad y una contraseña válidos. 
+Recuerde tambien confirmar la contraseña.
 
 ### Perfil
 
+El perfil de usuario se encuentra en la barra de navegación. Al hacer click en el icono del perfil se abre una vista con la información del usuario. 
+En la misma se puede acceder a las ordenes y/o cerrar sesión.
 
 ### Productos
 
+Los productos estan en la vista principal del sitio. Al hacer click en un producto se abre una vista con la información del mismo. 
+En la misma se puede agregar al carrito, seleccionando la cantidad necesaria, o volver a la vista principal.
 
 ### Carrito
 
