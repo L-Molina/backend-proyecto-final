@@ -197,3 +197,4 @@
 {"level":"warn","message":"Ruta /products//products/1 Inexistente - con metodo: GET"}
 {"level":"warn","message":"Ruta /products//products/1 Inexistente - con metodo: GET"}
 {"level":"warn","message":"Ruta /products//products/1 Inexistente - con metodo: GET"}
+{"level":"warn","message":"Ruta /carts/$%7BidCart%7D/$%7BidProduct%7D Inexistente - con metodo: GET"}
