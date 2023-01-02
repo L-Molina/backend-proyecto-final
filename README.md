@@ -41,7 +41,7 @@ Nota: El cliente se encontrara disponible en http://localhost:3000
 
 ## Como usar
 
-Es un e-commerce dedicado a la venta de diferentes comidos (como hamburguesas o fideos), donde se puede iniciar sesion creando tu propio usuario.
+Es un e-commerce dedicado a la venta de diferentes comidas (como hamburguesas o fideos), donde se puede iniciar sesion creando tu propio usuario.
 
 Ademas el administrador puede crear, editar y eliminar productos, y los usuarios pueden agregarlos al carrito y realizar compras.
 
