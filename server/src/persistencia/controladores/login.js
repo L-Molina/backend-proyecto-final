@@ -1,0 +1,11 @@
+//logger
+import { sendInfoLog } from '../../logs/logger.js';
+
+//postLogin
+const postLogin = (req, res) => {
+  sendInfoLog(req);
+  console.log(req.user);
+  res.status(200).send({message: 'Login exitoso'}); //no hace falta poner un try/catch porque passport ya lo hace
+}
+
+export { postLogin };

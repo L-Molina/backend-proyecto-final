@@ -1,0 +1,35 @@
+[
+    {
+      "name": "Fideos c/ Salsa",
+      "description": "Fideos con salsa",
+      "category": "PLATO PRINCIPAL",
+      "code": "50MN27",
+      "thumbnail": "https://www.recetas-argentinas.com/base/stock/Recipe/41-image/41-image_web.jpg",
+      "price": "210",
+      "stock": "20",
+      "_id": 1,
+      "timestamp": 1668617432370
+    },
+    {
+      "name": "Hamburguesa",
+      "description": "Hamburguesa",
+      "category": "MENU KIDS",
+      "code": "TCFD20",
+      "thumbnail": "https://adrianacotte.com/wp-content/uploads/2021/05/hamburguesa01-500x375.jpeg",
+      "price": "450",
+      "stock": "15",
+      "_id": 2,
+      "timestamp": 1668617504524
+    },
+    {
+      "name": "Milanesa con papas",
+      "description": "Milanesa con papas",
+      "category": "MENU KIDS",
+      "code": "PTGN",
+      "thumbnail": "https://astelus.com/wp-content/viajes/Plato-de-milanesa-con-papas-ti%CC%81pico-de-Argentina.jpg",
+      "price": "570",
+      "stock": "25",
+      "_id": 3,
+      "timestamp": 1668617549363
+    }
+]

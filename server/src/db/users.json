@@ -1,0 +1,35 @@
+[
+  {
+    "username": "Fernando Caseres",
+    "edad": "25",
+    "telefono": "12345678",
+    "direccion": "Serpa 2323",
+    "password": "$2b$08$mpJ4WUtPZNUj8shsNcKwmeYDk..7YpEDfHzsG5AQw2gc3RnIg9.r6",
+    "email": "pepeargento@gmail.com",
+    "image": "1672589128734-maria.png",
+    "_id": 1,
+    "timestamp": 1672589128821
+  },
+  {
+    "username": "Lautaro Molina",
+    "edad": "19",
+    "telefono": "01167346814",
+    "direccion": "Ramallo 147",
+    "password": "$2b$08$WyipItfiYLhw9O6rBw0rxOEbPuCKMM0hJXUr/GQjY.g6NB5dNwIIi",
+    "email": "lautarogabrielmolina@gmail.com",
+    "image": "1672589603591-elmo.jpg",
+    "_id": 2,
+    "timestamp": 1672589603629
+  },
+  {
+    "username": "Elmo",
+    "edad": "100",
+    "telefono": "01198765432",
+    "direccion": "Mi casa",
+    "password": "$2b$08$ZznbtwRFI/WFfp9klgezXOAjiviRhLsQ3aBwvo1amu44hAVet0XBO",
+    "email": "admin@admin.com",
+    "image": "1672603360816-elmo.jpg",
+    "_id": 3,
+    "timestamp": 1672603360857
+  }
+]

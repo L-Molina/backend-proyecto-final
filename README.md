@@ -1,29 +1,75 @@
-# backend-proyecto-final
+# backend-proyecto-final: Entrega Final
+
+## Como instalar
 
 1. Forkear y clonar el repositorio
 
-2. Parado en la raíz del proyecto correr el siguiente comando para instalar todas las dependecias del proyecto:
+2. Parado en la raíz del proyecto correr los siguientes comandos para instalar todas las dependecias del servidor:
 
    ```
+   cd server
    npm install
    ```
+
+3. Para correr el servidor, usar el siguiente comando:
+
+   ```
+   node app.js
+   ```
+
+Nota: El servidor se encontrara en http://localhost:8080
+
+4. Desde ese mismo directorio, correr los siguientes commandos para instalar todas las dependencias del cliente:
+
+   ```
+   cd ..
+   cd client
+   npm install
+   ```
+
+5. Para correr el cliente, usar el siguiente comando:
+
+   ```
+   npm start
+   ```
+
+Nota: El cliente se encontrara disponible en http://localhost:3000
    
-3. Crear las siguientes variables de entorno:
+5. Crear la siguiente variable de entorno:
    
-   PERS=mongodb
    MONGO_URL= mongo Atlas URL
-   ACCOUNTSID= Twilio Account SID
-   AUTHTOKEN= Twilio Auth Token
-   TWILIONUMBER= Twilio Number
-   EMAIL= email donde recibir los mensajes
-   MAILPASS= gmail pasword para app
 
-4. Usá el siguiente comando para correr el proyecto, que estará disponible en http://localhost:8080
+## Como usar
 
-   ```
-   npm node app.js
-   ```
+Es un e-commerce dedicado a la venta de diferentes comidos (como hamburguesas o fideos), donde se puede iniciar sesion creando tu propio usuario.
 
-La Aplicación estará desplegada en Heroku y puede ser accedida desde (aca estara disponible el link a la aplicacion en heroku)
-Es un e-commerce de varios tipos de productos (principalmente comidas), donde se puede iniciar sesion creando tu propio usuario
-Ademas el administrador puede crear, editar y eliminar productos, y los usuarios pueden agregarlos al carrito y realizar compras
+Ademas el administrador puede crear, editar y eliminar productos, y los usuarios pueden agregarlos al carrito y realizar compras.
+
+### Inicio de sesion
+
+
+### Registro
+
+
+### Perfil
+
+
+### Productos
+
+
+### Carrito
+
+
+### Ordenes
+
+
+### Chat
+
+
+## Tecnologias usadas:
+
+### Front-end
+
+
+
+### Back-end
